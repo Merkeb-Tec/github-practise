@@ -1,4 +1,4 @@
 # github-practise
-Helo world
-This is my first repository on GitHub
+Hello world!
+This is my first repository on GitHub.
 Don't mind me.. just trying this out. 
